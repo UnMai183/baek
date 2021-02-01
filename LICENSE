@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> be1c56c16db3b7ed544243d243d7fdc4a1128dd9
                      木兰宽松许可证, 第2版
 
    木兰宽松许可证， 第2版 
@@ -126,6 +129,7 @@
                http://license.coscl.org.cn/MulanPSL2 
    THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.  
    See the Mulan PSL v2 for more details.  
+<<<<<<< HEAD
 =======
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
@@ -789,3 +793,5 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <http://www.gnu.org/licenses/>.
 >>>>>>> 44a0b3c0903eff9aa419d375a7bbc684e8bb8b72
+=======
+>>>>>>> be1c56c16db3b7ed544243d243d7fdc4a1128dd9
